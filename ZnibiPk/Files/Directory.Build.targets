@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/ZnibiPk/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/ZnibiPk/Data/**" />
+		<Compile Remove="$(PkgPath)/ZnibiPk/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/ZnibiPk/Schemas\**" />
+		<Compile Remove="$(PkgPath)/ZnibiPk/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ZnibiPk/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ZnibiPk/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ZnibiPk/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ZnibiPk/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ZnibiPk/Resources/**" />
+		<None Remove="$(PkgPath)/ZnibiPk/Assemblies/**" />
+		<None Remove="$(PkgPath)/ZnibiPk/Data/**" />
+		<None Remove="$(PkgPath)/ZnibiPk/SqlScripts/**" />
+		<None Remove="$(PkgPath)/ZnibiPk/Schemas/**" />
+		<None Remove="$(PkgPath)/ZnibiPk/Resources/**" />
+  </ItemGroup>
+</Project>

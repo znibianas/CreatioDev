@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "e66e9c89-e1d2-3392-53f9-1bad62a668db",
+    "Name": "ZnibiPk",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1697204607000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/ZnibiPk.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
