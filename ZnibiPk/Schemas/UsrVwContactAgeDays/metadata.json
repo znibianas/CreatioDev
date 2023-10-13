@@ -1,0 +1,101 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+      "A2": "UsrVwContactAgeDays",
+      "A5": "cd18f806-fe5c-4b72-82bd-951f1394f6f0",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "e66e9c89-e1d2-3392-53f9-1bad62a668db",
+      "B8": "8.0.10.4735",
+      "EG1": {
+        "UId": "305693db-e3c6-4f7e-ab69-19ec88778958",
+        "A2": "UsrEntity_b3873adEventsProcess",
+        "A5": "cd18f806-fe5c-4b72-82bd-951f1394f6f0",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "8.0.10.4735",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D10": true,
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "541ab9f1-a1d4-73d2-3273-880351a5940e",
+      "D2": [
+        {
+          "UId": "0825fa89-dd42-f6df-06c2-2d4136fc9a77",
+          "A2": "UsrAgeDays",
+          "A3": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A4": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A5": "cd18f806-fe5c-4b72-82bd-951f1394f6f0",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        },
+        {
+          "UId": "a298f86b-f5e4-34f3-ca60-6d4d7afad376",
+          "A2": "UsrBirthDate",
+          "A3": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A4": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A5": "cd18f806-fe5c-4b72-82bd-951f1394f6f0",
+          "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+        },
+        {
+          "UId": "3ebd0507-03d1-3f64-3ccc-5610831bb97c",
+          "A2": "UsrName",
+          "A3": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A4": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A5": "cd18f806-fe5c-4b72-82bd-951f1394f6f0",
+          "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+        },
+        {
+          "UId": "541ab9f1-a1d4-73d2-3273-880351a5940e",
+          "A2": "UsrId",
+          "A3": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A4": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+          "A5": "cd18f806-fe5c-4b72-82bd-951f1394f6f0",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "E2": 1
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "UsrVwContactAgeDaysEvents"
+      },
+      "D35": {},
+      "D36": {
+        "A3": "87dfc3f7-4bd2-4a7c-a6ae-2fc37ffe18bd",
+        "BS1": false
+      }
+    }
+  }
+}
